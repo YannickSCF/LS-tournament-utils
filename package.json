@@ -1,7 +1,7 @@
 {
   "name": "com.yannickscf.ls-tournament-utils",
   "version": "0.0.1",
-  "displayName": "LS Tournament Utils",
+  "displayName": "Yannick - LS Tournament Utils",
   "description": "Tournament C# files common on Ludosport tournament tools",
   "unity": "2021.3",
   "unityRelease": "0b5",
