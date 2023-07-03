@@ -1,4 +1,4 @@
-namespace YannickSCF.TournamentDraw {
+namespace YannickSCF.LSTournaments.Utils {
 
     public enum Ranks { Novizio, Iniziato, Accademico, Cavaliere, MaestroDiScuola }
 
